@@ -18,7 +18,6 @@ pipeline {
         GITHUB_ACCOUNT = 'qiupingdai'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID = 'sonarcube'
-        SONAR_TOKEN = 'sonar-token'
     }
 
     stages {
